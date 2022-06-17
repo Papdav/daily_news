@@ -32,6 +32,7 @@ dependencies:
   ionicons:
   equatable:
   connectivity_plus:
+  http:
   flutter:
     sdk: flutter
 
